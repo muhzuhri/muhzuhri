@@ -31,17 +31,11 @@
   <img src="https://streak-stats.demolab.com/?user=muhzuhri&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhzuhri&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+## 🏢 My 3D Contribution Isometric View
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhzuhri&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhzuhri&theme=react-dark" alt="Activity Graph" width="100%" />
-</p>
+<picture>
+  <img alt="GitHub Isometric 3D Calendar Animation" src="https://raw.githubusercontent.com/muhzuhri/muhzuhri/output/github-isometric-3d.svg" width="100%">
+</picture>
 
 <br><br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhzuhri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
