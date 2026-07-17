@@ -13,7 +13,12 @@
 </picture>
 💫 About Me:<br><br>
 🔭 I'm currently working on:<br>Building scalable web applications using Laravel, PHP, and MySQL.<br><br>👯 I'm looking to collaborate on:<br>Open-source projects and innovative software engineering solutions.<br><br>🤝 I'm looking for help with:<br>Cloud Computing, DevOps, Docker, and Software Architecture.<br><br>🌱 I'm currently learning:<br>Laravel • REST APIs • Docker • Linux • Software Design • Clean Architecture<br><br>💬 Ask me about:<br>Web Development, Laravel, PHP, MySQL, Git, and Backend Development.<br><br>⚡ Fun fact:<br>I enjoy solving complex problems, writing clean code, and continuously learning new technologies.
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhzuhri&theme=react-dark" alt="Activity Graph" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhzuhri&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhzhrii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muh-zuhri-mubarak-0921972a5) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Muh_Artzzurh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Muh_Artzzurh) 
