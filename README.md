@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Muh.+Zuhri+Mubarak;Aspiring+Software+Engineer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=45&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Muh.+Zuhri+Mubarak;Aspiring+Software+Engineer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 <img align="center" alt="web-developer" width=100% src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 <h3 align="justify">Aspiring Software Engineer passionate about solving real-world problems through code and building software that is scalable, reliable, and user-focused. I enjoy continuously learning new technologies, improving my technical skills, and exploring best practices in software development. Through every project, I strive to write clean, maintainable code and create solutions that deliver meaningful value while growing into a better engineer every day.</h3>
