@@ -2,7 +2,7 @@
 <img align="center" alt="web-developer" width=100% src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 <h3 align="justify">Aspiring Software Engineer passionate about solving real-world problems through code and building software that is scalable, reliable, and user-focused. I enjoy continuously learning new technologies, improving my technical skills, and exploring best practices in software development. Through every project, I strive to write clean, maintainable code and create solutions that deliver meaningful value while growing into a better engineer every day.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhzuhri&label=Profile%20views&color=0e75b6&style=flat" alt="muhzuhri" /> </p>
-# 💫 About Me:
+💫 About Me:<br><br>
 🔭 I'm currently working on:<br>Building scalable web applications using Laravel, PHP, and MySQL.<br><br>👯 I'm looking to collaborate on:<br>Open-source projects and innovative software engineering solutions.<br><br>🤝 I'm looking for help with:<br>Cloud Computing, DevOps, Docker, and Software Architecture.<br><br>🌱 I'm currently learning:<br>Laravel • REST APIs • Docker • Linux • Software Design • Clean Architecture<br><br>💬 Ask me about:<br>Web Development, Laravel, PHP, MySQL, Git, and Backend Development.<br><br>⚡ Fun fact:<br>I enjoy solving complex problems, writing clean code, and continuously learning new technologies.
 
 
