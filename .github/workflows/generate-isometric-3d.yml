@@ -1,14 +1,9 @@
 name: Generate Isometric 3D View
 
 on:
-  # Berjalan otomatis setiap 24 jam
   schedule:
     - cron: "0 0 * * *"
-  
-  # Mengizinkan Anda menjalankan workflow ini secara manual kapan saja
   workflow_dispatch:
-  
-  # Berjalan setiap ada perubahan di branch main/master
   push:
     branches:
     - main
@@ -16,32 +11,26 @@ on:
 
 jobs:
   build:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
       
-      - uses: lowlighter/metrics@latest
+      - name: Generate 3D Isometric Calendar
+        uses: lowlighter/metrics@latest
         with:
-          # Token GitHub asli untuk akses profil
           token: ${{ secrets.GITHUB_TOKEN }}
-          
-          # Konfigurasi plugin 'isocalendar'
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_isocalendar_size: 500
           
-          # Lokasi penyimpanan file gambar output
-          output_path: dist/github-isometric-3d.svg
-          
-      # Push file SVG yang dihasilkan ke branch 'output'
-      - name: push github-isometric-3d.svg to the output branch
+      - name: Move and Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: metrics_renders
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
