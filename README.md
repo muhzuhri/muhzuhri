@@ -17,7 +17,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhzuhri&theme=react-dark" alt="Activity Graph" width="100%" />
 </p><br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhzuhri&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=muhzuhri&theme=tokyonight" alt="GitHub Streak" />
+</p><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.com/api/wakatime?username=muhzuhri&layout=compact&theme=vision-friendly-dark" alt="WakaTime Stats" />
 </p>
 
 ## 🌐 Socials:
