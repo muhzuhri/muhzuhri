@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=muhzuhri&layout=compact&theme=vision-friendly-dark" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhzuhri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ## 🌐 Socials:
