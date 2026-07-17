@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/muh-zuhri-mubarak-0921972a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muh-zuhri-mubarak-0921972a5" height="30" width="40" /></a>
 <a href="https://kaggle.com/muhzuhrimubarak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhzuhrimubarak" height="30" width="40" /></a>
 <a href="https://instagram.com/muhzhrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhzhrii" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muh_artzzurh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muh_artzzurh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/muh_artzzurh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Muh_Artzzurh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
