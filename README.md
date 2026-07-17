@@ -1,5 +1,5 @@
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  <h3>Hi 👋, I'm Muh. Zuhri Mubarak</h3>
+<marquee behavior="scroll" direction="left" scrollamount="3">
+  <h3>Hi 👋, I'm Muh. Zuhri Mubarak | Aspiring Software Engineer 🚀</h3>
 </marquee>
 <img align="center" alt="web-developer" width=100% src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 <h3 align="justify">Aspiring Software Engineer passionate about solving real-world problems through code and building software that is scalable, reliable, and user-focused. I enjoy continuously learning new technologies, improving my technical skills, and exploring best practices in software development. Through every project, I strive to write clean, maintainable code and create solutions that deliver meaningful value while growing into a better engineer every day.</h3>
