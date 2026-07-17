@@ -32,7 +32,6 @@
 </p>
 
 <br><br>
-![](https://streak-stats.demolab.com/?user=muhzuhri&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhzuhri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
