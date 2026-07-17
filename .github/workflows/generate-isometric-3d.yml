@@ -26,11 +26,12 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          filename: github-isometric-3d.svg  # Menentukan nama file output secara jelas
           
       - name: Move and Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: metrics_renders
+          build_dir: .  # Mengatur agar mencari file di root folder tempat file SVG berada
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
