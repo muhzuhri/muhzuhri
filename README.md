@@ -34,7 +34,7 @@
 ## 🏢 My 3D Contribution Isometric View
 
 <picture>
-  <img alt="GitHub Isometric 3D Calendar Animation" src="https://raw.githubusercontent.com/muhzuhri/muhzuhri/output/github-isometric-3d.svg" width="100%">
+  <img alt="GitHub Isometric 3D Calendar Animation" src="https://raw.githubusercontent.com/muhzuhri/muhzuhri/output/github-isocalendar.svg" width="100%">
 </picture>
 
 <br><br>
