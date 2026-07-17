@@ -12,10 +12,10 @@
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/muhzuhri/muhzuhri/output/github-contribution-grid-snake.svg">
 </picture>
 💫 About Me:<br><br>
-🔭 I'm currently working on:<br>Building scalable web applications using Laravel, PHP, and MySQL.<br><br>👯 I'm looking to collaborate on:<br>Open-source projects and innovative software engineering solutions.<br><br>🤝 I'm looking for help with:<br>Cloud Computing, DevOps, Docker, and Software Architecture.<br><br>🌱 I'm currently learning:<br>Laravel • REST APIs • Docker • Linux • Software Design • Clean Architecture<br><br>💬 Ask me about:<br>Web Development, Laravel, PHP, MySQL, Git, and Backend Development.<br><br>⚡ Fun fact:<br>I enjoy solving complex problems, writing clean code, and continuously learning new technologies.
+🔭 I'm currently working on:<br>Building scalable web applications using Laravel, PHP, and MySQL.<br><br>👯 I'm looking to collaborate on:<br>Open-source projects and innovative software engineering solutions.<br><br>🤝 I'm looking for help with:<br>Cloud Computing, DevOps, Docker, and Software Architecture.<br><br>🌱 I'm currently learning:<br>Laravel • REST APIs • Docker • Linux • Software Design • Clean Architecture<br><br>💬 Ask me about:<br>Web Development, Laravel, PHP, MySQL, Git, and Backend Development.<br><br>⚡ Fun fact:<br>I enjoy solving complex problems, writing clean code, and continuously learning new technologies. <br><br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhzuhri&theme=react-dark" alt="Activity Graph" width="100%" />
-</p>
+</p><br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhzuhri&theme=tokyonight" alt="GitHub Streak" />
 </p>
