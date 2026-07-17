@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muh. Zuhri Mubarak</h1>
-<img align="center" alt="web-developer" width=100% src="https://tenor.com/id/view/coding-gif-18657810">
+<img align="center" alt="web-developer" width=100% src="https://tenor.com/bqrUA.gif">
 <h3 align="justify">Aspiring Software Engineer passionate about solving real-world problems through code and building software that is scalable, reliable, and user-focused. I enjoy continuously learning new technologies, improving my technical skills, and exploring best practices in software development. Through every project, I strive to write clean, maintainable code and create solutions that deliver meaningful value while growing into a better engineer every day.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhzuhri&label=Profile%20views&color=0e75b6&style=flat" alt="muhzuhri" /> </p>
 
