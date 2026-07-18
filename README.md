@@ -17,7 +17,7 @@
 
 <p align="center">
   <p size="45" weight="900"> 💫 About Me: </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20&section=footer" width="100%" />
 </p>
 🔭 I'm currently working on:<br>Building scalable web applications using Laravel, PHP, and MySQL.<br><br>👯 I'm looking to collaborate on:<br>Open-source projects and innovative software engineering solutions.<br><br>🤝 I'm looking for help with:<br>Cloud Computing, DevOps, Docker, and Software Architecture.<br><br>🌱 I'm currently learning:<br>Laravel • REST APIs • Docker • Linux • Software Design • Clean Architecture<br><br>💬 Ask me about:<br>Web Development, Laravel, PHP, MySQL, Git, and Backend Development.<br><br>⚡ Fun fact:<br>I enjoy solving complex problems, writing clean code, and continuously learning new technologies. <br><br>
 
