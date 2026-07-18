@@ -14,6 +14,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhzuhri/muhzuhri/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/muhzuhri/muhzuhri/output/github-contribution-grid-snake.svg">
 </picture>
+
 ## 💫 About Me: <br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20&height=60&section=footer" width="100%" />
