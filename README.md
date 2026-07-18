@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=45&pause=1000&color=2EA44F&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Muh.+Zuhri+Mubarak;Aspiring+Software+Engineer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=45&pause=1000&color=00FF66&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Muh.+Zuhri+Mubarak;Aspiring+Software+Engineer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <img width="1695" height="782" alt="ChatGPT Image 18 Jul 2026, 10 315 31" src="https://github.com/user-attachments/assets/6656d0d0-7e12-4144-b250-6a18917446d9" />
