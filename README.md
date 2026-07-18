@@ -2,11 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=45&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Muh.+Zuhri+Mubarak;Aspiring+Software+Engineer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
-<img width="1695" height="782" 
-       style="transition: transform 0.3s ease, filter 0.3s ease; filter: brightness(90%); cursor: pointer;" 
-       onmouseover="this.style.transform='scale(1.05)'; this.style.filter='brightness(100%)';" 
-       onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(90%)';" 
-       alt="Gambar Portofolio" alt="ChatGPT Image 18 Jul 2026, 10 315 31" src="https://github.com/user-attachments/assets/6656d0d0-7e12-4144-b250-6a18917446d9" />
+<img width="1695" height="782" alt="ChatGPT Image 18 Jul 2026, 10 315 31" src="https://github.com/user-attachments/assets/6656d0d0-7e12-4144-b250-6a18917446d9" />
 
 <h3 align="justify">🚀 Aspiring Software Engineer passionate about solving real-world problems through code.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhzuhri&label=Profile%20views&color=0e75b6&style=flat" alt="muhzuhri" /> </p>
