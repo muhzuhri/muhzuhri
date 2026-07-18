@@ -66,8 +66,9 @@
   <img src="https://raw.githubusercontent.com/muhzuhri/muhzuhri/main/github-metrics.svg" width="100%" alt="Detailed Metrics">
 </p>
 
----
-[![](https://komarev.com/ghpvc/?username=muhzuhri&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20&section=footer" width="100%" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
