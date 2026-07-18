@@ -37,6 +37,19 @@
   <img alt="GitHub Isometric 3D Calendar Animation" src="https://raw.githubusercontent.com/muhzuhri/muhzuhri/main/github-metrics.svg" width="100%">
 </picture>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhzuhri/muhzuhri/main/github-metrics.svg" width="100%" alt="Detailed Metrics">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=muhzuhri&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhzuhri&theme=react-dark" alt="Activity Graph" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhzuhri&theme=tokyonight&layout=compact" alt="Top Languages" />
+</p>
+
 <br><br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhzuhri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
