@@ -37,6 +37,13 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhzuhri&theme=tokyonight&layout=compact" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhzuhri&theme=tokyonight" alt="Summary Card" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20&height=60&section=footer" width="100%" />
+</p>
+
 ## 🏢 My 3D Contribution Isometric View
 
 <p align="center">
